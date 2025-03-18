@@ -1,1 +1,2 @@
-# Robotic_Manipulation_Project
+# Robotic Manipulation Project
+Repo for Robotic Manipulation Coursework

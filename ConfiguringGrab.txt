@@ -1,0 +1,4 @@
+joint to cube = 0.12
+mid cube to tip = 0.02
+mid holder to bot holder = 0.015
+ideal amount of cube in hodler = 0.75 * 25mm of depth, top 0.75 * 25mm of height
